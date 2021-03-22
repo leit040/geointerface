@@ -1,9 +1,19 @@
 {
-  "name": "leit/geointerface",
+  "name": "leit040/geointerface",
+  "type": "package",
+  "description": "Interface for GeoIp service.",
+  "keywords": [
+    "GeoIp",
+    "laravel"
+  ],
   "autoload": {
     "psr-4": {
-      "Leit\\Geo\\": "./src"
+      "Leit040\\Geo\\": "./src"
     }
   }
 
 }
+
+
+
+
