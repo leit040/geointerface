@@ -3,7 +3,6 @@
 
 namespace Leit\Geo;
 
-//add pakages
 interface GeoIpInterface
 {
     public function continentCode();
@@ -12,7 +11,7 @@ interface GeoIpInterface
 
     public function parse($ip);
 
-    //publicc
+
 
 
 }
