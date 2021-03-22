@@ -11,7 +11,7 @@ interface GeoIpInterface
 
     public function parse($ip);
 
-/////
+
 
 
 }
